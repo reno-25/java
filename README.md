@@ -1,4 +1,4 @@
-# counting_score
+Counting Score
 
-Counting score java project
+Counting score java project 
 Just want to try my old project study again
