@@ -1,10 +1,7 @@
 Counting Score (Not finish)
 
 Desc: 
-This program is made so that users can input student data (id, name, score) in each subject and create an average of the student's scores for all subjects. 
-Don't have UI
+This Java program is designed to manage student scores for multiple subjects, calculate their total scores, categorize their performance, and rank them based on their total scores.
 
 Remain:
-- Maybe I'll change the score concept later
-- Add ABCD category
-- Add UI
+- Maybe I'll change the score input concept later
