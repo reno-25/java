@@ -1,0 +1,10 @@
+Counting Score (Not finish)
+
+Desc: 
+This program is made so that users can input student data (id, name, score) in each subject and create an average of the student's scores for all subjects. 
+Don't have UI
+
+Remain:
+- Maybe I'll change the score concept later
+- Add ABCD category
+- Add UI
